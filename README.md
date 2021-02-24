@@ -1,6 +1,9 @@
 # audiobooks_edrlab
 opds server audiobooks
 
+OPDSFeed : https://storage.googleapis.com/audiobook_edrlab/feed.json
+
+----
 
 https://archive.org/details/livre_audio
 
